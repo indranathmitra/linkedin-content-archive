@@ -6,8 +6,11 @@ I write about program governance, application migration, and platform modernizat
 
 What is here
 /articles — published LinkedIn long-form articles
+
 /posts — published LinkedIn short posts
+
 /newsletter — published issues of The Governance Layer newsletter
+
 Connect
 LinkedIn: linkedin.com/in/indranathmitra
 Website: indranathmitra.com
